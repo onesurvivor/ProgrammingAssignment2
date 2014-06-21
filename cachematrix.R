@@ -28,7 +28,7 @@ cacheSolve <- function(x, ...) {
 
 #  This function computes the inverse of a special "matrix" returned
 #  by the makeCacheMatrix function. If the inverse has already been calculated
-# (and the matrix has not changed), then the cachesolve will retrieve the
+# (and the matrix has not changed), then the cacheSolve function will retrieve the
 # inverse from the cache.
 
 
